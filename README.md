@@ -1,3 +1,4 @@
 # FinTechCaseStudy
 
 
+![Lemonade](Lemonade.png)
