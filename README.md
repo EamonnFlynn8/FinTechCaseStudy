@@ -10,7 +10,7 @@
 
 * Lemonade sells insurance policies without a broker using big data 
 
-* Eamonn Mike and Kj 
+# Eamonn Mike and Kj 
 
 ### Lemonade 
 
